@@ -1,4 +1,4 @@
-# Yelpbot ![](https://github.com/akhi1312/Yelpbot/blob/master/YelpBot/Sample%20Images/Yelp.jpg?raw=true =25X25)
+# Yelpbot ![](https://github.com/akhi1312/Yelpbot/blob/master/YelpBot/Sample%20Images/Yelp.jpg?=25X25)
 
 
 The primary objective of this project was to build a bot for Yelp using Amazon Lex which can be integrated with Facebook Messenger and Slack .
